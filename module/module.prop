@@ -4,4 +4,4 @@ version=28.1.1
 versionCode=2811
 author=repotitan
 description=Docker For Android
-updateJson=https://raw.githubusercontent.com/mgksu/dockerd/refs/heads/main/update.json
+updateJson=https://raw.githubusercontent.com/666899734/dockerd/refs/heads/main/update.json
