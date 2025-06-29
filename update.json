@@ -1,6 +1,6 @@
 {
-  "version": "v28.2.2",
-  "versionCode": "2822",
-  "zipUrl": "https://github.com/666899734/dockerd/releases/download/v28.2.2/Magisk-Dockerd-v28.2.2.zip",
+  "version": "v28.3.0",
+  "versionCode": "2830",
+  "zipUrl": "https://github.com/666899734/dockerd/releases/download/v28.3.0/Magisk-Dockerd-v28.3.0.zip",
   "changelog": "https://raw.githubusercontent.com/666899734/dockerd/main/CHANGELOG.md"
 }
