@@ -1,7 +1,7 @@
 id=dockerd
 name=Dockerd
-version=28.3.0
-versionCode=2830
+version=28.3.1
+versionCode=2831
 author=repotitan
 description=Docker For Android
 updateJson=https://raw.githubusercontent.com/666899734/dockerd/refs/heads/main/update.json
